@@ -1,0 +1,19 @@
+{
+  "name": "aesop_wants_food",
+  "version": "1.0.0",
+  "description": "Aesop Needs Feeding!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Aaron, Miles and Matt",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jquery": "^2.2.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
